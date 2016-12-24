@@ -1,0 +1,7 @@
+common: -x OLD_STYLE_OUTLINE_NAMES=true -r features/step_definitions/ -r features/support/ -r features/helpers/
+default: -p common -t ~@wip
+dev: -p common API_ENV=dev
+test: -p common API_ENV=test
+pre-prod: -p common API_ENV=preprod
+perf: -p common API_ENV=perf
+prod: -p common API_ENV=prod

@@ -1,0 +1,21 @@
+#dev:
+  base_path: https://api-dev.store.bbc.com/v2/
+  test_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  crm_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  drupal_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+
+test:
+  test_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  crm_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  drupal_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+
+pre-prod:
+  test_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  crm_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  drupal_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+
+perf:
+  test_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  crm_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+  drupal_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
+
