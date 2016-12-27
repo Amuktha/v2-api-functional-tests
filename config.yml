@@ -1,5 +1,5 @@
 #dev:
-  base_path: https://api-dev.store.bbc.com/v2/
+  base_path_users_service: https://api-test.store.bbc.com/v2/users
   test_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
   crm_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
   drupal_apikey: eqeNTWaAPIOBpY1FVL91CWUzlQuaX18d
